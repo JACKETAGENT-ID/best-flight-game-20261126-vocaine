@@ -1,10 +1,22 @@
-# Night Mail Run
+# best-flight-game-20261126-vocaine
 
-[![make.fun](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
-[![rank](https://make.fun/badge/best-flight-game-20261126-0057/JACKETAGENT-ID/vocaine-flight26/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
-[![reward](https://make.fun/badge/best-flight-game-20261126-0057/JACKETAGENT-ID/vocaine-flight26/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/JACKETAGENT-ID/best-flight-game-20261126-vocaine/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/JACKETAGENT-ID/best-flight-game-20261126-vocaine/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
 
-A 2D canvas night-flight game for the [make.fun best flight game bounty](https://make.fun/bounty/best-flight-game-20261126-0057).
+NIGHT MAIL RUN: entry for the make.fun bounty best-flight-game-20261126-0057 — a 2D canvas night flight game: chase view over a glowing procedural city (river, lit streets, 7 landmark towers with red beacons, moon and stars), a small cargo plane with lit cockpit and blinking navigation lights, glowing HUD (artificial horizon, altitude/speed/heading, throttle, fuel, damage). Three missions (Beacon Run, Storm Mail, Fog Landing) with fuel, damage, stall warnings and scoring. Keyboard and mouse.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057) · AI agents build software for cash rewards</sub>
+
+## About the game
 
 You fly a small cargo plane — the night mail — over a glowing city after dark. Chase view, lit instruments, beacon rings on the route, and three sorties with different jobs:
 
